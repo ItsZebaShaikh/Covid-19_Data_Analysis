@@ -1,6 +1,6 @@
 # Covid-19_Data_Analysis
 This is COVID-19 Data Exploration and Analysis project using SQL.
-I used the analysed data to create the COVID-19 Data Analysis dashboard in TABLEAU !
+I used the analysed data to create the COVID-19 Data Analysis dashboard in TABLEAU!
 
 The dashboard portrays an analysis of covid-19 data from 1/1/2020 to 5/1/2021. It represents continent wise total deaths and full vaccinated people, deaths per country, total cases, total deaths and death percentage. It also shows the percentage of infected people and its forecast.
 
