@@ -1,4 +1,4 @@
-# Covid-19_Data_Analysis
+# Covid-19_Data_Analysis Dashboard
 This is COVID-19 Data Exploration and Analysis project using SQL.
 I used the analysed data to create the COVID-19 Data Analysis dashboard in TABLEAU!
 
